@@ -1,0 +1,17 @@
+#all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gold;
+    min-height: 100vh;
+}
+#login_box{
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+    background-color: pink;
+    width: 260px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
